@@ -7,6 +7,7 @@
         color: #665D5D;
         font-size: 45px;
     }
+
     span.pink{
         color: #FF006B;
     }
@@ -14,14 +15,12 @@
     h3{
         color:#665D5D;
         font-size: 30px;
-    
     }
     
     p{
         font-weight: 700;
         color: #999999;
         font-size: 15px;
-    
     }
     
     .square1{
@@ -35,19 +34,18 @@
         align-items: flex-start;
     }
     
-    .catchPraise{
+    .catch-praise{
         margin-top: 200px;
         margin-left: 123px;
         margin-right: 251px;
     }
     
     .profile{
-        display: flex;
         flex-direction: column;
         justify-content: center;
     }
     
-    .profileImg{
+    .profile-img{
         display: flex;
         margin-left: auto;
         margin-right: auto;
@@ -59,41 +57,45 @@
         display: flex;
         text-align: center;
         flex-direction: column;
-    
-        
     }
+
     .birth{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
     }
+
     .major{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
     }
+
     .mbti{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
     }
-    .socialMedia{
+
+    .social-media{
         display: flex;
         flex-direction: row;
         justify-content: space-between;
     }
-    .favIs{
+
+    .favarite{
         margin-left: 123px;
-        
     }
-    .favContents{
+
+    .favorite-contents{
         margin: auto;
         display: flex;
         justify-content: space-evenly;
         margin-left: 123px;
         /* margin-right: 123px; */
     }
-    .favImg{
+
+    .favorite-img{
         display: flex;
         margin-left: auto;
         margin-right: auto;
@@ -101,23 +103,20 @@
         height: 300px;
     }
     
-    .favBsb{
+    .favorite-baseball{
         display: flex;
         flex-direction: column;
         justify-content: center;
         text-align: center;
-    
     }
-    
-    
-    
-    .favTen{
+
+    .favorite-tennis{
         display: flex;
         flex-direction: column;
         text-align: center;
-    
     }
-    .favTkd{
+
+    .favorite-taekwondo{
         display: flex;
         flex-direction: column;
         text-align: center;
