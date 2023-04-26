@@ -2,122 +2,120 @@
     font-family: 'Apple SD Gothic Neo';
     }
     
-    h2{
-        text-align: left;
-        color: #665D5D;
-        font-size: 45px;
-    }
+h2 {
+  text-align: left;
+  color: #665D5D;
+  font-size: 45px;
+}
 
-    span.pink{
-        color: #FF006B;
-    }
+span.pink {
+  color: #FF006B;
+}
     
-    h3{
-        color:#665D5D;
-        font-size: 30px;
-    }
-    
-    p{
-        font-weight: 700;
-        color: #999999;
-        font-size: 15px;
-    }
-    
-    .square1{
-        height: 27px;
-        background: rgba(255, 0, 107, 0.27);
-    }
-    
-    .info{
-        display: flex;
-        justify-content: flex-start;
-        align-items: flex-start;
-    }
-    
-    .catch-praise{
-        margin-top: 200px;
-        margin-left: 123px;
-        margin-right: 251px;
-    }
-    
-    .profile{
-        flex-direction: column;
-        justify-content: center;
-    }
-    
-    .profile-img{
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 326px;
-        height: 435px;
-    }
-    
-    .name{
-        display: flex;
-        text-align: center;
-        flex-direction: column;
-    }
+h3 {
+  color:#665D5D;
+  font-size: 30px;
+}
 
-    .birth{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
+p {
+  font-weight: 700;
+  color: #999999;
+  font-size: 15px;
+}
 
-    .major{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
+.square1 {
+  height: 27px;
+  background: rgba(255, 0, 107, 0.27);
+}
 
-    .mbti{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
+.info {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
 
-    .social-media{
-        display: flex;
-        flex-direction: row;
-        justify-content: space-between;
-    }
+.catch-praise {
+  margin: 200px 251px 0 123px;
+}
 
-    .favarite{
-        margin-left: 123px;
-    }
+.profile {
+  flex-direction: column;
+  justify-content: center;
+}
 
-    .favorite-contents{
-        margin: auto;
-        display: flex;
-        justify-content: space-evenly;
-        margin-left: 123px;
-        /* margin-right: 123px; */
-    }
+.profile-img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 326px;
+  height: 435px;
+}
 
-    .favorite-img{
-        display: flex;
-        margin-left: auto;
-        margin-right: auto;
-        width: 300px;
-        height: 300px;
-    }
-    
-    .favorite-baseball{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        text-align: center;
-    }
+.name {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
 
-    .favorite-tennis{
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-    }
+.birth {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
-    .favorite-taekwondo{
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-    }
+.major {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.mbti {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.favorite {
+  margin-left: 123px;
+}
+
+.favorite-contents {
+  margin: auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-left: 123px;
+  /* margin-right: 123px; */
+}
+
+.favorite-img {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  height: 300px;
+}
+
+.favorite-baseball {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.favorite-tennis {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.favorite-taekwondo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
