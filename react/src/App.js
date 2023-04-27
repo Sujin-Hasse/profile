@@ -1,7 +1,19 @@
-import Main from "./pages/Main";
+import React from "react";
+import Favorite from "./pages/Favorite";
+import "./Main.css";
+import Info from "./pages/Info";
+import Profile from "./pages/Profile";
+import ProfileContents from "./pages/ProfileContents";
 
-function App() {
-  return <Main />;
-}
+const App = () => {
+  return (
+    <>
+      <Info />
+      <Profile />
+      <ProfileContents />
+      <Favorite />
+    </>
+  );
+};
 
 export default App;
