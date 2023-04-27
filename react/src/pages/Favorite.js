@@ -13,7 +13,7 @@ const Favorite = () => {
           <img
             class="favorite-img"
             src="img/img_fav_bsb.png"
-            ait="img-baseball"
+            alt="img-baseball"
           ></img>
           <h3>야구장가기</h3>
           <div class="square1"></div>
@@ -23,7 +23,7 @@ const Favorite = () => {
           <img
             class="favorite-img"
             src="img/img_fav_ten.png"
-            ait="img-tennis"
+            alt="img-tennis"
           ></img>
           <h3>테니스치기</h3>
           <div class="square1"></div>
@@ -33,7 +33,7 @@ const Favorite = () => {
           <img
             class="favorite-img"
             src="img/img_fav_tkd.png"
-            ait="img-taekwondo"
+            alt="img-taekwondo"
           ></img>
           <h3>태권도품새</h3>
           <div class="square1"></div>
