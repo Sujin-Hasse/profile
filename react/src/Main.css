@@ -38,7 +38,7 @@ p {
   margin: 200px 251px 0 123px;
 }
 
-.profile {
+.wrap-profile {
   flex-direction: column;
   justify-content: center;
 }
